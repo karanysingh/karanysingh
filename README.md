@@ -14,9 +14,9 @@
   <br>
   - I have experience of about an year working on industry standard projects and have successfully launched them to production.
     <br>
-    - Engineer by heart with a solution oriented mindset.
-    <br>
   - I believe in collaboration and building an inspiring atmosphere around oneself.  
+    <br>
+  - Engineer by heart with a solution oriented mindset.
     <br>
   📫 How to reach me 👇
 </p>
