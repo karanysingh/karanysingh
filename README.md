@@ -41,19 +41,8 @@
 <br>
 <p align="center">
 <a href="https://github.com/karanysingh/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanysingh&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanysingh&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
 <hr>
-<h2 align="center">💹 Most Popular Repos 💹</h2>
-<br>
-<p align="center">
-<a href="https://github.com/karanysingh/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karanysingh&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-  
-<a href="https://github.com/karanysingh/karanysingh/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karanysingh&repo=karanysingh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 </p
