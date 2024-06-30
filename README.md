@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=karanysingh/karanysingh" alt="karanysingh">    
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+karanysingh;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -25,7 +25,7 @@
 <a href="mailto:karan124d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
 <a href="https://twitter.com/karanysingh"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
-<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> --></p>
+<!--   <a href="https://github.com/karanysingh/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> --></p>
 <hr>
 
 
@@ -40,20 +40,20 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
-<a href="https://github.com/HalemoGPA/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<a href="https://github.com/karanysingh/">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanysingh&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
 <hr>
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
-<a href="https://github.com/HalemoGPA/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/karanysingh/Learn-Js/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karanysingh&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
-<a href="https://github.com/HalemoGPA/HalemoGPA/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=HalemoGPA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/karanysingh/karanysingh/">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karanysingh&repo=karanysingh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 </p
