@@ -32,7 +32,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=nextjs,nodejs,,py,sklearn,pytorch,tensorflow,opencv,flask,mysql,mongo,sqlite,html,css,js,react,aws,go,cpp,matlab,md,git,vscode,docker,postman,linux,&perline=12"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,nextjs,html,css,js,go,py,sklearn,pytorch,tensorflow,opencv,flask,mysql,sqlite,react,aws,cpp,md,git,vscode,docker,postman,linux,&perline=12"  />
 </p>
 
 
