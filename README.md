@@ -36,7 +36,7 @@
 </p>
 
 
-
+<!---
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
@@ -46,8 +46,10 @@
 </p>
 <hr>
 </p>
+--->
+
 <p align="center">
-  <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HalemoGPA?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/karanysingh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/karanysingh?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
